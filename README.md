@@ -5,7 +5,9 @@
 ### Machine Learning & Data Science
 
 Mathematics–Computer Science at **UC San Diego**  
-Building ML systems that communicate uncertainty and ground their outputs in evidence.
+I build reliable ML systems that communicate uncertainty, ground outputs in evidence, and ship as tested applications.
+
+**Open to ML / Data Science roles · San Francisco Bay Area · B.S. expected March 2027**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-asim--aa.github.io-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://asim-aa.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asim-ahmed-129450365/)
@@ -18,30 +20,25 @@ Building ML systems that communicate uncertainty and ground their outputs in evi
 
 ## What I build
 
-I build machine-learning and data systems that move beyond notebooks into tested, usable products. My work focuses on **calibrated probabilities**, **conformal prediction intervals**, and **evidence-grounded LLM workflows**.
+My work sits at the intersection of **reliable machine learning**, **data products**, and **agentic AI**.
 
 | **Reliable ML** | **Data & analytics** | **Agentic AI** |
 |---|---|---|
-| Predictive modeling, uncertainty estimation, calibration, and evaluation | SQL, statistical analysis, KPI design, dashboards, and data storytelling | RAG, multi-agent orchestration, tool use, verification, and cited outputs |
+| Calibration, conformal prediction, model evaluation, and explicit failure states | Reproducible SQL/Python pipelines, KPI design, dashboards, and data storytelling | RAG, multi-agent orchestration, tool use, verification, and cited outputs |
 
 ---
 
 ## Selected work
 
-### [Disclosure Verifier](https://github.com/asim-aa/disclosure-verifier)
-A hierarchical multi-agent pipeline that extracts quantitative claims from SEC disclosures, retrieves filing evidence, and verifies claims against structured XBRL data.
+| Project | Evidence & impact | Focus |
+|---|---|---|
+| **[Disclosure Verifier](https://asim-aa.github.io/#work)** | Extracts quantitative claims from SEC disclosures and checks them against structured XBRL evidence | DSPy, hierarchical agents, retrieval, numerical reconciliation |
+| **[NBA Intelligence Platform](https://github.com/asim-aa/nba-intelligence-platform)** | End-to-end data and ML platform for interpretable pregame win-probability prediction | Feature pipelines, probability calibration, evaluation, deployment |
+| **[Marketplace Pricing](https://github.com/asim-aa/marketplace-pricing-analysis)** | **361,956 listings · 30.2% lower test MAE · 41,746 held-out examples · 75 tests** | CatBoost, conformal prediction, Tableau |
+| **[Grounded Analytics Copilot](https://github.com/asim-aa/evidence-grounded-analytics-copilot)** | **112,650 order-item records · deterministic SQL/Python · 29 tests** | Conversational BI, DuckDB, Streamlit, evidence-backed answers |
+| **[Multi-Agent Vacation Planner](https://github.com/asim-aa/vacation-planner-agent)** | Separates parallel research, independent scoring, and synthesis to prevent evidence mixing | Multi-agent orchestration, grounded research, verification |
 
-### [NBA Intelligence Platform](https://github.com/asim-aa/nba-intelligence-platform)
-An end-to-end basketball analytics and ML platform built to turn game data into interpretable, calibrated predictions.
-
-### [Uncertainty-Aware Marketplace Pricing](https://github.com/asim-aa/marketplace-pricing-analysis)
-Analyzed 361,956 marketplace listings and trained a CatBoost pricing model that reduced test MAE by **30.2%** versus baseline, with conformal prediction intervals to communicate uncertainty.
-
-### [Grounded Analytics Copilot](https://github.com/asim-aa/evidence-grounded-analytics-copilot)
-A conversational BI system over 112,650 order-item records using deterministic SQL/Python computation, evidence-backed answers, and a 29-test validation suite.
-
-### [Multi-Agent Vacation Planner](https://github.com/asim-aa/vacation-planner-agent)
-A multi-agent planning system that separates research, evaluation, and coordination to produce grounded destination recommendations without mixing evidence across sources.
+> Each project emphasizes measurable evaluation, reproducibility, and honest communication of system limits.
 
 ---
 
@@ -75,17 +72,17 @@ A multi-agent planning system that separates research, evaluation, and coordinat
 
 ---
 
-## More about how I work
+## How I work
 
-- **Grounding:** I design LLM workflows that retrieve evidence and attach citations instead of relying on unsupported model recall.
-- **Uncertainty:** I care about whether predictions are calibrated and when a system should admit that it does not know.
-- **Validation:** I use reproducible pipelines, tests, held-out evaluation, and explicit failure states.
-- **Product thinking:** I turn technical work into deployed applications, dashboards, and decision-ready outputs.
+- **Grounding:** Retrieve evidence and attach citations instead of relying on unsupported model recall.
+- **Uncertainty:** Measure calibration and design systems that can admit when evidence is insufficient.
+- **Validation:** Use held-out evaluation, reproducible pipelines, tests, and explicit failure states.
+- **Product thinking:** Turn technical work into deployed applications, dashboards, and decision-ready outputs.
 
-I am a first-generation Iraqi American studying **Mathematics–Computer Science** with a **Cognitive Science minor** at UC San Diego. I expect to graduate in **March 2027** and am open to Machine Learning and Data Science opportunities.
+I am a first-generation Iraqi American studying **Mathematics–Computer Science** with a **Cognitive Science minor** at UC San Diego.
 
 <div align="center">
 
-**San Diego, California · Open to ML / Data Science roles**
+**San Francisco Bay Area · Open to ML / Data Science roles**
 
 </div>
