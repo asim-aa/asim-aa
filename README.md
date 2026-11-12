@@ -79,7 +79,7 @@ My work sits at the intersection of **reliable machine learning**, **data produc
 - **Validation:** Use held-out evaluation, reproducible pipelines, tests, and explicit failure states.
 - **Product thinking:** Turn technical work into deployed applications, dashboards, and decision-ready outputs.
 
-I am a first-generation Iraqi American studying **Mathematics–Computer Science** with a **Cognitive Science minor** at UC San Diego.
+I am a first-generation Indian American studying **Mathematics–Computer Science** with a **Cognitive Science minor** at UC San Diego.
 
 <div align="center">
 
